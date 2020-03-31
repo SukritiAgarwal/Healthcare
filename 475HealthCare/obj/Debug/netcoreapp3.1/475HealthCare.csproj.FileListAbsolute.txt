@@ -1,0 +1,11 @@
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\obj\Debug\netcoreapp3.1\475HealthCare.csprojAssemblyReference.cache
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\obj\Debug\netcoreapp3.1\475HealthCare.AssemblyInfoInputs.cache
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\obj\Debug\netcoreapp3.1\475HealthCare.AssemblyInfo.cs
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\bin\Debug\netcoreapp3.1\475HealthCare.exe
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\bin\Debug\netcoreapp3.1\475HealthCare.deps.json
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\bin\Debug\netcoreapp3.1\475HealthCare.runtimeconfig.json
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\bin\Debug\netcoreapp3.1\475HealthCare.runtimeconfig.dev.json
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\bin\Debug\netcoreapp3.1\475HealthCare.dll
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\bin\Debug\netcoreapp3.1\475HealthCare.pdb
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\obj\Debug\netcoreapp3.1\475HealthCare.dll
+C:\Users\sukri\source\repos\475HealthCare\475HealthCare\obj\Debug\netcoreapp3.1\475HealthCare.pdb

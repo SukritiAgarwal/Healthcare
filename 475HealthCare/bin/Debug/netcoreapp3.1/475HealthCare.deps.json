@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "475HealthCare/1.0.0": {
+        "runtime": {
+          "475HealthCare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "475HealthCare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
